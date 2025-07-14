@@ -1,7 +1,3 @@
-Dưới đây là bản dịch toàn bộ nội dung README gốc của dự án **"Triển khai quy trình Agentic RAG End-to-End để trả lời câu hỏi về Luật Giao Thông Việt Nam"** sang tiếng Việt:
-
----
-
 # **Triển khai quy trình Agentic RAG trên K8s với Jenkins để trả lời câu hỏi về Luật Giao Thông Việt Nam**
 
 ## I. Giới thiệu
